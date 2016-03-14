@@ -1,0 +1,35 @@
+<!-- Octopi Homepage -->
+
+<!DOCTYPE html>
+	<html>
+		<head>
+			<title>Team Octopi</title>
+			<link rel="stylesheet" href="bootstrap.css">
+		</head>
+		<body>
+			<header>
+				<div class="navbar navbar-inverse">
+					<div class="navbar-inner">
+						<a class="brand" href="/">Octopi</a>
+						<ul class="nav">
+							<li class="active"><a href="/">Home</a></li>
+							<li><a href="/welcome">Welcome</a></li>
+							<li><a href="/log">Login</a></li>
+						</ul>
+					</div>
+				</div>
+			</header>
+			<div class="container">
+				
+	<div class="jumbo">
+        <h1>Weird ALgorithm</h1>
+		<p><b>Brought to you by Octopi</b></p>
+        <br>
+        <p>Joseph, Nick, John and Max <br> ITC 110 <br> Final Project </p>
+       
+		<p> Click <a href="welcome">here</a> try our app</p>
+	</div>
+
+			</div>
+		</body>
+	</html>
